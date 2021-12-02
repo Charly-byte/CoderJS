@@ -151,7 +151,7 @@ function  guarda_Local(v,vt,c,t){
     
     let obtDato=localStorage.getItem("InfoCre");
     
-    console.log(obtDato)
+  
 };
 
 function limpiar(){
